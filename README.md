@@ -18,5 +18,5 @@ The objective of this SOC automation project is to enhance incident response eff
 - 
 ## Steps
 
-*Ref 1: Topology/Diagram of Network
+*Ref 1: Topology/Diagram of Network*
 ![SOCdiagram](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/ad0432ce-94d9-41fc-b3d1-7c6ffccd30fc)
