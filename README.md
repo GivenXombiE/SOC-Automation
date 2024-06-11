@@ -13,7 +13,9 @@ The objective of this SOC automation project is to enhance incident response eff
 - Strengthening foundational cybersecurity knowledge, including network security, endpoint protection, and compliance requirements.
 
 ### Tools Used
-
+Wazuh Server for detection
+Wazuh Agent to query reports
+Shuffle SOAR to develope workflows and automation
 
 - 
 ## Steps
