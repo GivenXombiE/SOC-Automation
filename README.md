@@ -23,3 +23,6 @@ The objective of this SOC automation project is to enhance incident response eff
 
 *Ref 2: Shuffle Workflow*
 ![shuffle](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/e31278d4-7f73-42a1-95e8-0a09addb55dd)
+
+*Ref 3: Using Wazuh to query reports*
+![wazuh](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/49f023d0-2962-4f2a-bc98-eb93d8657426)
