@@ -28,3 +28,7 @@ The objective of this SOC automation project is to enhance incident response eff
 
 *Ref 3: Using Wazuh to query reports*
 ![wazuh](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/49f023d0-2962-4f2a-bc98-eb93d8657426)
+
+*Ref 4: Using VirtualBox to run the required VMs needed on a NAT Network*
+![VMs](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/c193f3ea-b58e-4852-98af-3583863efc12)
+
