@@ -30,6 +30,7 @@ The objective of this SOC automation project is to enhance incident response eff
 ![wazuh](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/49f023d0-2962-4f2a-bc98-eb93d8657426)
 
 *Ref 4: Using TheHive for Case Management*
+![thehive](https://github.com/GivenXombiE/SOC-Automation/assets/104403111/7b16669c-ebaa-49a6-9c74-5e191f6032a7)
 
 
 *Ref 5: Using VirtualBox to run the required VMs needed on a NAT Network*
